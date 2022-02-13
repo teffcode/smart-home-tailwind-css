@@ -899,6 +899,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   .lg\:mt-16 {
     margin-top: 4rem;
   }
+  
+  .lg\:mt-0 {
+    margin-top: 0px;
+  }
 
   .lg\:h-full {
     height: 100%;
